@@ -1,0 +1,19 @@
+bugs à rapporter :
+Malone meurt = le rend était en toc, donc pas de texte : à supprimer ou à refaire
+Idem Voyage au bout de la Nuit
+Idem leçon d'amour dans un parc
+Idem "marier sa fille"
+Idem Anatole France la rôtisserie
+Idem Huysmans à rebours
+Idem désert dans paris
+idem bordeaux henry la maison
+idem à travers la kabylie
+idem roi sans divertissement
+idem diamants du ciel
+idem roués innocents
+idem culte du moi 2 et 3
+Idem Montovar-Mme-Ha-Dges_Asléga-ou-l'Infortune
+Idem pour la liste suivante : ['1876_Gaboriau-Émile_Le-petit-vieux-des-Batignolles.xml ; ', '1983_Ernaux-Annie_La-place.xml ; ', '1850_Gautier-Théophile_Jean-et-Jeannette.xml ; ', '1832_Vigny-Alfred-de_Les-consultations-du-docteur-Noir-Stello-:-première-consultation-Daphné-:-seconde-consultation-du-docteur-Noir.xml ; ', "1806_Beaufort-d'-Hautpoul-Anne-Marie-de_Childéric-Roi-des-Francs-(tome-premier).xml ; ", '1866_Solms-Marie-de_Les-débuts-de-la-forgeronne-(le-Piège-aux-maris-:-série-2).xml ; ', '1776_Denon-Vivant_Point-de-lendemain.xml ; ', '1891_Huysmans-Joris-Karl_Là-bas.xml ; ', "1845_Sue-Eugène_Paula-Monti-ou-L'Hôtel-Lambert.-Tome-II.xml ; ", '1993_Nothomb-Amélie_Le-sabotage-amoureux.xml ; ', "1922_Jaloux-Edmond_L'escalier-d'or.xml ; ", '1781_Laclos-Pierre-Choderlos-de_Les-liaisons-dangereuses.xml ; ', '1717_Retz-Cardinal-de_Mémoire-du-Cardinal-de-Retz-Tome-I.xml ; ', '1871_Ségur-comtesse-de_Après-la-pluie-le-beau-temps.xml ; ', "2014_Montovar-Mme-Ha-Dges_Asléga-ou-l'Infortune-secourue-par-Napoléon-fait-historique-de-l'Empire-(Tome-1).xml ; ", '1790_Sade-Marquis-de_Les-Infortunes-de-la-vertu.xml ; ', '1879_Gréville-Henry_Bonne-Marie.xml ; ']
+
+Rémy de Gourmont, un coeur virginal : ID PREFACE already defined
+Ferney Alice Passé sous silence : document empty
